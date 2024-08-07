@@ -47,14 +47,22 @@ button {
 .operation{
     background-color: rgb(27, 136, 27);
 }
-#ac{
+.ac{
     background-color: red;
 }
 
-#equals{
+#={
     background-color: yellow;
 }
 
 #dot{
     background-color: orangered;
+}
+
+.backspace{
+    background-color: yellow;
+}
+
+.percent{
+    background-color: blue;
 }
